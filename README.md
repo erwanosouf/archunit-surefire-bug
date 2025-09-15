@@ -20,3 +20,10 @@ All tests run
 `mvn test -Dsurefire.version=3.5.3 -f pom.xml`
 
 thisTestUsingArchTestFieldShouldRun does not run.
+
+## [Update 2025-09-15] Fixed in 3.5.4
+
+`mvn test -Dsurefire.version=3.5.4 -f pom.xml`
+
+All tests run
+Confirmed fixed.
